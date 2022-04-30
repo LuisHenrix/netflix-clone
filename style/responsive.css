@@ -1,0 +1,15 @@
+@media screen and (max-width: 700px) {
+    .navbar {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .botao {
+        margin-top: 5px;
+        width: 300px;
+    }
+
+    .descricao {
+        width: 300px;
+    }
+}
